@@ -1,4 +1,4 @@
-# Jayesh's 3D Text Portfolio Website
+# Jayesh's 360° Text Portfolio Website
 
 Welcome to my portfolio website! This site showcases my skills, projects, and background as a web developer.
 
